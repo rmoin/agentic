@@ -28,6 +28,7 @@ Libraries, tools, recipes, sample codes for Agentic System
 ## Blog, News & Webinar
 - [DNA - AI Agents](https://cedricchee.com/blog/the-dna-of-ai-agents/) 
 - [Building Effective Agent](https://www.anthropic.com/research/building-effective-agents) - Anthropic
+- [State-of-Ai-Agents](https://www.langchain.com/stateofaiagents) - LangChain
 
 ## Downloads
 - [Ref Arch for Scaling AI Agents](docs/gen-ai-multi-agents-pov-2.pdf) - Deloitte
