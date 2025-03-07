@@ -29,7 +29,7 @@ Libraries, tools, recipes, sample codes for Agentic System
 - [Building Effective Agent](https://www.anthropic.com/research/building-effective-agents) - Anthropic
 
 ## Downloads
-- [Ref Arch for Scaling AI Agents](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/gen-ai-multi-agents-pov-2.pdf) - Deloitte
+- [Ref Arch for Scaling AI Agents](docs/gen-ai-multi-agents-pov-2.pdf) - Deloitte
   
 <br>
 ---
