@@ -31,6 +31,7 @@ Libraries, tools, recipes, sample codes for Agentic System
 ## Downloads
 - [Ref Arch for Scaling AI Agents](docs/gen-ai-multi-agents-pov-2.pdf) - Deloitte
 - [Industry Case Studies](docs/WEF_AI_in_Action_Beyond_Experimentation_to_Transform_Industry_2025.pdf) - WEF & Accenture
+- [Google AI Agent Whitepaper](docs/google-ai-agents-whitepaper.pdf) - Google
   
 <br>
 ---
