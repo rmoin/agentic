@@ -29,6 +29,7 @@ Libraries, tools, recipes, sample codes for Agentic System
 - [DNA - AI Agents](https://cedricchee.com/blog/the-dna-of-ai-agents/) 
 - [Building Effective Agent](https://www.anthropic.com/research/building-effective-agents) - Anthropic
 - [State-of-Ai-Agents](https://www.langchain.com/stateofaiagents) - LangChain
+- [321 Use cases - Customer Agent, Data Agent, etc](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) - Google Cloud
 
 ## Downloads
 - [Ref Arch for Scaling AI Agents](docs/gen-ai-multi-agents-pov-2.pdf) - Deloitte
