@@ -24,6 +24,7 @@ Libraries, tools, recipes, sample codes for Agentic System
 - [Magentic](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) - Microsoft
 - [Evolution of AI Framework](https://techcommunity.microsoft.com/blog/machinelearningblog/the-evolution-of-ai-frameworks-understanding-microsofts-latest-multi-agent-syste/4339739) - Microsoft
 - [Text-to-SQL Agent](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BxZCfI%2BSVT22SjDmmxZPX3A%3D%3D) - LinkedIn Engg.
+- [Agents in Production](https://devblogs.microsoft.com/all-things-azure/how-to-develop-ai-apps-and-agents-in-azure-a-visual-guide/) - Microsoft
   
 ## Blog, News & Webinar
 - [DNA - AI Agents](https://cedricchee.com/blog/the-dna-of-ai-agents/) 
