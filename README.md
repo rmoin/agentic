@@ -19,6 +19,7 @@ Libraries, tools, recipes, sample codes for Agentic System
 - [Moneta](https://github.com/Azure-Samples/moneta-agents) - Microsoft
 - [Multi Agent](https://github.com/kinfey/MultiAIAgent/tree/main) - Msft
 - [Enterprise RAG Agent](https://github.com/Azure/gpt-rag-agentic?tab=readme-ov-file#how-the-orchestrator-works) - Msft
+- [Advanced RAG](https://github.com/Azure-Samples/openai/tree/main/Solution_Accelerators/Advanced_RAG) - Msft
 
 ## Learning
 - [Agent Overview](https://huyenchip.com//2025/01/07/agents.html#agent_overview) - Chip
