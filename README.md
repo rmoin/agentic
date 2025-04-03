@@ -30,6 +30,7 @@ Libraries, tools, recipes, sample codes for Agentic System
 - [Agents in Production](https://devblogs.microsoft.com/all-things-azure/how-to-develop-ai-apps-and-agents-in-azure-a-visual-guide/) - Microsoft
 - [Large Language Model Agents](https://llmagents-learning.org/f24) - Berkley MOOC
 - [MCP](https://techcommunity.microsoft.com/blog/Azure-AI-Services-blog/model-context-protocol-mcp-integrating-azure-openai-for-enhanced-tool-integratio/4393788/) - Msft
+- [RAG Soln Accl Blog](https://techcommunity.microsoft.com/blog/azurearchitectureblog/advanced-rag-solution-accelerator/4394223) - Msft
   
 ## Blog, News & Webinar
 - [DNA - AI Agents](https://cedricchee.com/blog/the-dna-of-ai-agents/) 
